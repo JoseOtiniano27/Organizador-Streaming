@@ -1,0 +1,5 @@
+{
+  "name": "Organizador de clientes Streaming",
+  "description": "An application to manage payment dates for streaming service subscriptions. It allows tracking active and inactive clients, renewing subscriptions, and uses Gemini to analyze client data.",
+  "requestFramePermissions": []
+}
